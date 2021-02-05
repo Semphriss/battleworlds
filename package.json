@@ -1,0 +1,21 @@
+{
+  "name": "battleworld",
+  "version": "0.0.1",
+  "description": "Open-source military game",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Semphriss/battleworld.git"
+  },
+  "keywords": [
+    "game",
+    "war",
+    "html5",
+    "webview"
+  ],
+  "author": "Semphris",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Semphriss/battleworld/issues"
+  },
+  "homepage": "https://github.com/Semphriss/battleworld#readme"
+}
